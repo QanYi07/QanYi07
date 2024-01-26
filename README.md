@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qanyi07
+- 👋 Hi, I’m @QanYi07
 - 👀 I’m interested in Fresh things
 - 🌱 I’m currently learning High School Curriculum and Python
 
